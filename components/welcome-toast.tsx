@@ -16,9 +16,9 @@ export function WelcomeToast() {
         },
         description: (
           <>
-            This is a high-performance, SSR storefront powered by Shopify, Next.js, and Vercel.{' '}
+            This is a high-performance, SSR storefront powered by Shopify, Next.js, and Tilda.{' '}
             <a
-              href="https://vercel.com/templates/next.js/nextjs-commerce"
+              href="https://tilda.net/nextjs-commerce/"
               className="text-blue-600 hover:underline"
               target="_blank"
             >
