@@ -33,6 +33,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# tilda
+.tilda
+
+# ide configs
+.idea
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
